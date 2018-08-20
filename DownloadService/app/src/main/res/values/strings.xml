@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadService</string>
+    <string name="download_file">Download File</string>
+    <string name="update_file">Update File</string>
+    <string name="download_url">http://android-challenge.appliedvr.io/initial-config</string>
+    <string name="update_url">http://android-challenge.appliedvr.io/update-config</string>
+</resources>
